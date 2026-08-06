@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eben NEzer Manurung
+# 👋 Hi, I'm Eben Nezer Manurung
 
 A passionate software developer who enjoys building modern web applications and continuously learning new technologies.
 
