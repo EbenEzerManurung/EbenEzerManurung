@@ -33,6 +33,7 @@ I believe that technology is constantly evolving, and I strive to grow by learni
 
 * Go (Gin Framework)
 * Laravel
+* Express Js /Node Js
 * Python
 
 ### Database
