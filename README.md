@@ -26,6 +26,7 @@ I believe that technology is constantly evolving, and I strive to grow by learni
 * TypeScript
 * Laravel
 * Net
+* Angular
 * JavaScript
 * Tailwind CSS
 
