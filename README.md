@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Eben Nezer Manurung
 
-IT professional with 3+ years of experience in full-stack web development, backend engineering, data automation, and enterprise database management. Proficient in building business applications with hands-on experience designing RESTful APIs, automating business processes, and developing scalable data pipelines. Proven track record delivering enterprise solutions that improve operational efficiency, enhance data accuracy, and support business decision-making. Passionate about building secure, maintainable, and scalable software while continuously adapting to modern technologies and engineering best practices.
-
-A passionate who enjoys building modern web applications and continuously learning new technologies.
-I believe that technology is constantly evolving, and I strive to grow by learning, adapting, and improving my skills through hands-on projects and continuous exploration.
-
+Driven by curiosity and a passion for building modern web applications, I thrive on continuous learning and hands-on exploration of new technologies. I believe growth comes from constant adaptation — and I'm committed to sharpening my skills through real-world projects and staying current with evolving engineering practices.
 
 ---
 
